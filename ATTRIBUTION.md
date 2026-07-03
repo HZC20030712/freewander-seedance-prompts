@@ -12,7 +12,7 @@ Phase 1 policy:
 
 | Source | URL | License | Status |
 |---|---|---|---|
-| `awesome-seedance` | https://github.com/ZeroLu/awesome-seedance | To verify | Pending sync |
+| `awesome-seedance` | https://github.com/ZeroLu/awesome-seedance | MIT | Synced |
 | `awesome-seedance-2-prompts` | https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts | To verify | Pending sync |
 
 ## Acceptance Rules

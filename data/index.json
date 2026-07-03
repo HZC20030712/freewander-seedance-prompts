@@ -7,13 +7,7 @@
       "id": "cinematic-video",
       "name": "Cinematic Video",
       "file": "seedance/cinematic-video.json",
-      "count": 0
-    },
-    {
-      "id": "commercial",
-      "name": "Commercial",
-      "file": "seedance/commercial.json",
-      "count": 0
+      "count": 38
     }
   ]
 }
