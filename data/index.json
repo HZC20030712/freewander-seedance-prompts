@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "model": "seedance",
+  "last_updated": "2026-07-03",
+  "categories": [
+    {
+      "id": "cinematic-video",
+      "name": "Cinematic Video",
+      "file": "seedance/cinematic-video.json",
+      "count": 0
+    },
+    {
+      "id": "commercial",
+      "name": "Commercial",
+      "file": "seedance/commercial.json",
+      "count": 0
+    }
+  ]
+}
