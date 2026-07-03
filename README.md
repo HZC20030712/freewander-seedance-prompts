@@ -2,7 +2,7 @@
 
 > Professional Seedance video generation prompts with camera movement descriptions, reference images, and shot composition guides. Ideal for cinematic content creation.
 
-[View on FreeWander](https://freewander.app/gallery/video?utm_source=github&utm_medium=repo&utm_campaign=seedance-prompts)
+[View on FreeWander](https://freewander.app/?utm_source=github&utm_medium=repo&utm_campaign=seedance-prompts)
 
 ## Data Overview
 
@@ -628,8 +628,8 @@ Read structured prompt entries from `data/index.json` and category files.
 
 Use the same prompt flow on FreeWander:
 
-- [Browse video gallery](https://freewander.app/gallery/video?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)
-- [Generate video](https://freewander.app/generate-video?utm_source=github&utm_medium=repo&utm_campaign=seedance-prompts)
+- [Browse video gallery](https://freewander.app/?utm_source=github&utm_medium=readme&utm_campaign=seedance-prompts)
+- [Generate video](https://freewander.app/?utm_source=github&utm_medium=repo&utm_campaign=seedance-prompts)
 
 ## License & Attribution
 
