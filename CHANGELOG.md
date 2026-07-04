@@ -7,5 +7,5 @@ All notable changes to this project will be documented in this file.
 ### Added
 
 - Initial repository structure for Seedance Prompts
-- README, ATTRIBUTION, and LICENSE placeholders
+- Initialized README, ATTRIBUTION, and LICENSE
 - Data schema structure defined
